@@ -1,4 +1,4 @@
-# Peer-to-Peer Group Based File Sharing System
+# Bit Torrent : Peer-to-Peer Group Based File Sharing System
 
 ## Prerequisites
 
